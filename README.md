@@ -1,4 +1,4 @@
-# ngacha350
+# ngacha350 version2
 sample python code
 def samplecode(dan):
     if type(dan) == string:
